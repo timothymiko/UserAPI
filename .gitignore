@@ -1,0 +1,5 @@
+.DS_Store
+
+mongodb
+node_modules
+ssl
